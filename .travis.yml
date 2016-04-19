@@ -1,0 +1,4 @@
+language: objective-c
+xcode_workspace: GeoRenting.xcworkspace
+xcode_scheme: GeoRenting
+sudo: false
