@@ -3,4 +3,5 @@ xcode_workspace: GeoRenting.xcworkspace
 xcode_scheme: GeoRenting
 sudo: false
 before_install:
+  - rvm use 2.2.2
   - gem install cocoapods -v '0.39.0'
